@@ -1,0 +1,13 @@
+350_dense_katana.txt
+*TriaxialE1
+500 200 0.3: 10
+-0.03
+*TriaxialE1
+500 200 4: 10
+0.0
+*TriaxialE1
+500 200 0.1: 10
+0.01
+*TriaxialE1
+100 10 4: 10
+0.000001
